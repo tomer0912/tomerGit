@@ -1,5 +1,3 @@
-# tomerGit
-adding a cake image
 #מתכון להכנת עוגת ביסקוויטים שוקו־וניל
 
 [לינק לאתר המקורי](http://www.chef-lavan.co.il/item/11418)
